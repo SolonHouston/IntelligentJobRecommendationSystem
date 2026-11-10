@@ -1,0 +1,6 @@
+sourceCode,externalKey,originalUrl,title,companyName,cityRaw,salaryRaw,description,dataKind,expireAt
+DEMO_FILE,DEMO-01,https://example.org/jobs/1,Java实习,模拟公司,武汉,面议,了解Java与MySQL,SIMULATED
+DEMO_FILE,DEMO-02,https://example.org/jobs/2,Java实习,模拟公司,上海,150-200元/天,了解Spring Boot,SIMULATED
+DEMO_FILE,DEMO-01,https://example.org/jobs/1,Java实习,模拟公司,武汉,150-170元/天,了解Java与MySQL,SIMULATED
+DEMO_FILE,,,Java实习,模拟公司,武汉,面议,了解Java与MySQL,SIMULATED
+DEMO_FILE,DEMO-05,https://example.org/jobs/5,Java实习,模拟公司,武汉,面议,了解Java与MySQL,SIMULATED,2026-10-01T00:00:00+08:00

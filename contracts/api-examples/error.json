@@ -1,0 +1,8 @@
+{
+  "code": "VALIDATION_FAILED",
+  "message": "请检查填写内容",
+  "fieldErrors": {
+    "title": "职位名称不能为空"
+  },
+  "requestId": "演示请求编号"
+}

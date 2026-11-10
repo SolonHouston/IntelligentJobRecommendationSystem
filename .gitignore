@@ -1,0 +1,32 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.local
+application-local.yml
+application-local.yaml
+application-local.properties
+
+# Build output and dependencies
+target/
+node_modules/
+dist/
+build/
+.gradle/
+.idea/
+.vscode/
+*.iml
+
+# Temporary files and logs
+_tmp_*/
+tmp/
+*.log
+~$*
+.DS_Store
+Thumbs.db
+
+# Local data and private resumes
+uploads/
+data/private/
+*.sqlite
+*.db

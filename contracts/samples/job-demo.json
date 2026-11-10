@@ -1,0 +1,19 @@
+{
+  "id": 101,
+  "version": 1,
+  "title": "Java 后端开发实习生",
+  "companyNameSnapshot": "模拟公司",
+  "directionCode": "JAVA_BACKEND",
+  "jobType": "INTERNSHIP",
+  "workMode": "ONSITE",
+  "cityCode": "420100",
+  "salaryRaw": "150-200元/天",
+  "salaryPeriod": "DAY",
+  "salaryMinMonthly": null,
+  "salaryMaxMonthly": null,
+  "educationMin": "BACHELOR",
+  "description": "模拟岗位：了解 Java、Spring Boot 和 MySQL",
+  "status": "OPEN",
+  "applicationMode": "EXTERNAL",
+  "originalUrl": "https://example.org/jobs/demo-101"
+}
